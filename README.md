@@ -45,5 +45,5 @@ The checker displays information in the following format:
 [*] email:pass:token**** | Info : [Status : UNLOCKED/LOCKED/INVALID, Nitro : YES/NO, Subscription Date Expire in : X days, Boosts left : X, Account Age : X, Email Verified : YES/NO, Phone Verified : YES/NO]
 ```
 
-###Note
-```Selling / Reselling this product is not allowed.Its an open source script so dont sell this please!!
+### Note
+'''Selling / Reselling this product is not allowed.Its an open source script so dont sell this please!!'''
